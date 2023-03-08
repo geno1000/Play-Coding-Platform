@@ -1,9 +1,10 @@
-```
-Prototype > Flutter
-```
+
 [메인으로 돌아가기](/README.md)
 
 # 프로토타입 > 플루터 
+```
+Prototype > Flutter
+```
 
 ## DartType
 ### :card_index_dividers: 스플래시스크린 (SplashScreen)
