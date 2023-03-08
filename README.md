@@ -12,11 +12,11 @@ Play-Coding-Platform
 
 # :file_cabinet: 일반
 
-## :card_index_dividers: 프로토타입(Prototype)
+## :scroll: 프로토타입(Prototype)
 
 ### [01. 플루터(Flutter)](Prototype-Flutter/README.md)
 웹,모바일,데스크탑 앱 제작을 위한 플랫폼
 > Web, Mobile(Android, IOS), Desktop(MacOS, Windows, Ubuntu)
 
 # :file_cabinet: 게임
-## :card_index_dividers: 유니티(Unity)
+## :scroll: 유니티(Unity)
