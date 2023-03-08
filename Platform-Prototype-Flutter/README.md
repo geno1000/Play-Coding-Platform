@@ -3,7 +3,7 @@
 
 # 플랫폼 > 프로토타입 > 플루터 
 ```
-Platform-Prototype > Flutter
+Platform > Prototype > Flutter
 ```
 
 ## :card_index_dividers: DartType
