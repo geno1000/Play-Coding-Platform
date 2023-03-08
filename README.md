@@ -13,4 +13,4 @@ Play-Coding-Platform
 
 ### [01. 플루터(Flutter)](Prototype-Flutter/README.md)
 웹,모바일,데스크탑 앱 제작을 위한 플랫폼
-> #Web, #Mobile(Android, IOS), #Desktop(MacOS, Windows, Ubuntu)
+> Web, Mobile(Android, IOS), Desktop(MacOS, Windows, Ubuntu)
