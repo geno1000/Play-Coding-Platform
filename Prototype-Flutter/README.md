@@ -8,4 +8,4 @@ Prototype > Flutter
 
 ## :card_index_dividers: DartType
 ### 스플래시스크린 (SplashScreen)
-- SplashScreen / 001 (로딩화면) : [결과물](/Prototype-Flutter/DartType-SplashScreen-001.md)
+- 001 (로딩화면) : [결과물](/Prototype-Flutter/DartType-SplashScreen-001.md)
