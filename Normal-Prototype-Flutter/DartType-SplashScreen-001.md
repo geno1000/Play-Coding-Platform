@@ -1,4 +1,4 @@
-[돌아가기](/Prototype-Flutter/README.md)
+[돌아가기](/Normal-Prototype-Flutter/README.md)
 
 # 001. 로딩화면
 
