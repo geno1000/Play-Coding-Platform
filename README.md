@@ -14,7 +14,7 @@ Play-Coding-Platform
 
 ## :scroll: 프로토타입(Prototype)
 
-### [01. 플루터(Flutter)](Prototype-Flutter/README.md)
+### [01. 플루터(Flutter)](Normal-Prototype-Flutter/README.md)
 웹,모바일,데스크탑 앱 제작을 위한 플랫폼
 > Web, Mobile(Android, IOS), Desktop(MacOS, Windows, Ubuntu)
 
