@@ -1,9 +1,9 @@
 
 [메인으로 돌아가기](/README.md)
 
-# 플랫폼 > 프로토타입 > 플루터 
+# 일반 > 프로토타입 > 플루터 
 ```
-Platform > Prototype > Flutter
+Normal > Prototype > Flutter
 ```
 
 ## :card_index_dividers: DartType
